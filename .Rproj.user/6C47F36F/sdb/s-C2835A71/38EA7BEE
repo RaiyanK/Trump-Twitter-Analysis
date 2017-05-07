@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "theme: jekyll-theme-cayman\n\n# Site settings\ntitle: Trump Twitter Analysis\nheader-img: img/home-bg.jpg\nemail: rk878@georgetown.edu\ndescription: \"An analysis of Trumps tweets & comparison to U.S. extremist groups\"\nbaseurl: \"\"\nurl: \"https://raiyank.github.io/Trump-Twitter-Analysis/\"\ngithub_username:  RaiyanK\n\n# Build settings\nmarkdown: kramdown\nhighlighter: rouge\npermalink: pretty\npaginate: 5\nexclude: [\"README.md\"]\n\ngems: [jekyll-paginate]\n",
+    "created" : 1494130194942.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "2061662741",
+    "id" : "38EA7BEE",
+    "lastKnownWriteTime" : 1494130563,
+    "last_content_update" : 1494130563940,
+    "path" : "C:/Users/Raiyan/Dropbox/Spring 2017/Intro to Data Science/Trump-Twitter-Analysis/_config.yml",
+    "project_path" : "_config.yml",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
