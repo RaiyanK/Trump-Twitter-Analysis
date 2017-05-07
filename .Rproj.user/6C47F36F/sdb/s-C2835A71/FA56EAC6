@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "name: \"Trump-Twitter-Analysis\"\nnavbar:\n  title: \"Trump-Twitter-Analysis\"\n  left:\n    - text: \"Home\"\n      href: index.html\n    - text: \"About\"\n      href: about.html",
+    "created" : 1494129686637.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "2995672606",
+    "id" : "FA56EAC6",
+    "lastKnownWriteTime" : 1494129759,
+    "last_content_update" : 1494129759788,
+    "path" : "C:/Users/Raiyan/Dropbox/Spring 2017/Intro to Data Science/Trump-Twitter-Analysis/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
