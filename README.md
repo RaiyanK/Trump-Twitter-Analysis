@@ -1,12 +1,22 @@
-## Welcome to GitHub Pages
+## Motivation behind the project
 
-You can use the [editor on GitHub](https://github.com/RaiyanK/tweets-cmrr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+To determine the influence Donald Trump's rhetoric has had on the popularity and the messaging of hate groups within the U.S. We focus on Trump's Twitter activity to investigate any similarities between his Twitter feed and those of various domestic hate groups or individual extremists. We think that Trump's rhetoric has changed vastly over the last decade. Considering his shift in tone, we are interested in exploring the evolution of hate speech during this time period. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We predict that since the beginning of Trump's presidential campaign, and continuing into his presidency, the Twitter activity of hate groups has increased and may even reflect Trump's Twitter activity. 
 
-### Markdown
+Based on this, our main research question is: Is Trump's Twitter activity associated with the Twitter activity of hate groups? 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We begin with some text analysis of Trump's tweets using methods such as n_grams and word correlations. We then move on to comparing his Tweets to other extremist groups using methods such as topic modelling. 
+
+
+## Data 
+
+We obtained data from the Trump Twitter Archive (http://www.trumptwitterarchive.com/). This source compiled Trump's Twitter activity into a dataset that includes information on the date he tweeted, the text he tweeted, and retweet counts. We use Trump's tweets from 2009 to present day.
+
+We also used the Southern Poverty Law Center to gather a list of individuals who have been identified as extremist. They range from being white Nationalist to anti-Islamic or anti-Semitic. We identified their twitter handles, or their affiliated organization's twitter handles, and scraped 1500 of the most recent tweets. 
+
+The final data set, for Trumps tweets, has approximately 30,866 observations, and the hate group data set comprises of a total of 75 individuals and groups and 62,252 observations
+
 
 ```markdown
 Syntax highlighted code block
